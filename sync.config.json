@@ -1,0 +1,5 @@
+{
+    "files": ["./test.txt"],
+    "port": 5000,
+    "peers": ["ws://localhost:5000"]
+}
